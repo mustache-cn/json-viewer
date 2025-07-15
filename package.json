@@ -1,6 +1,6 @@
 {
   "name": "json-viewer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It's a browser for JSON document,You can get a beautiful view.",
   "type": "module",
   "scripts": {
@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/chrome": "^0.0.260",
-    "typescript": "^5.2.2",
-    "vite": "^5.1.0"
+    "@types/chrome": "0.1.0",
+    "typescript": "5.8.3",
+    "vite": "7.0.4"
   },
   "dependencies": {
     "@mustache-cn/json-formatter-js": "^2.4.0"
